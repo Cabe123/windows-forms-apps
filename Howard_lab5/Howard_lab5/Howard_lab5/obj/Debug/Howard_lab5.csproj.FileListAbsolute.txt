@@ -1,0 +1,30 @@
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.exe.config
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.exe
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.pdb
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csprojAssemblyReference.cache
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.Form1.resources
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.Properties.Resources.resources
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csproj.GenerateResource.cache
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csproj.CoreCompileInputs.cache
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.exe
+C:\Users\JonCa\source\repos\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.pdb
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.exe.config
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.exe
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.pdb
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csprojAssemblyReference.cache
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.Form1.resources
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.Properties.Resources.resources
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csproj.GenerateResource.cache
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csproj.CoreCompileInputs.cache
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.exe
+C:\Users\JonCa\Documents\School\C# back_ups\Back_up\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.pdb
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.exe.config
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.exe
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\bin\Debug\Howard_lab5.pdb
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csprojAssemblyReference.cache
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.Form1.resources
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.Properties.Resources.resources
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csproj.GenerateResource.cache
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.csproj.CoreCompileInputs.cache
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.exe
+C:\Users\JonCa\Downloads\Howard_lab5\Howard_lab5\Howard_lab5\obj\Debug\Howard_lab5.pdb

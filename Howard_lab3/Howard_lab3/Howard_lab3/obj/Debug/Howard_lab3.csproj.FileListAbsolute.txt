@@ -1,0 +1,42 @@
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.exe.config
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.exe
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.pdb
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csprojAssemblyReference.cache
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmMain.resources
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.Properties.Resources.resources
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csproj.GenerateResource.cache
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csproj.CoreCompileInputs.cache
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.exe
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.pdb
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmAddStudent.resources
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmUpdateStudent.resources
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmAddScore.resources
+C:\Users\JonCa\source\repos\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmUpdateScore.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.exe.config
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.exe
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.pdb
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csprojAssemblyReference.cache
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmAddScore.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmAddStudent.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmMain.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmUpdateScore.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmUpdateStudent.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.Properties.Resources.resources
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csproj.GenerateResource.cache
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csproj.CoreCompileInputs.cache
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.exe
+C:\school\C# backup\lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.pdb
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.exe.config
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.exe
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\bin\Debug\Howard_lab3.pdb
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csprojAssemblyReference.cache
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmAddScore.resources
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmAddStudent.resources
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmMain.resources
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmUpdateScore.resources
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.frmUpdateStudent.resources
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.Properties.Resources.resources
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csproj.GenerateResource.cache
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.csproj.CoreCompileInputs.cache
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.exe
+C:\Users\JonCa\Downloads\Howard_lab3\Howard_lab3\Howard_lab3\obj\Debug\Howard_lab3.pdb
